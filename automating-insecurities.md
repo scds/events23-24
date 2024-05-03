@@ -4,8 +4,7 @@ title: "Automating (In)securities: Cybersecurity's AI Imaginaries"
 nav_order: 3
 ---
 
-<!-- TODO -->
-<!-- <img src="assets/img/dmcse.png" alt="Workshop Title Slide" width="100%"> -->
+<img src="assets/img/insecurities.png" alt="Workshop Title Slide" width="100%">
 
 # Automating (In)securities: Cybersecurity's AI Imaginaries
 

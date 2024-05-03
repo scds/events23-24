@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Decolonising Media and Communication Studies Education in Sub-Saharan Africa
-nav_order: 4
+nav_order: 2
 ---
 
 <img src="assets/img/dmcse.png" alt="Workshop Title Slide" width="100%">
