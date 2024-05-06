@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 <div class="container" style="width=100%">
-<div class="flipbook" style="overflow: hidden">
+<div class="flipbook" style="z-index: 7">
 <div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page1.png); background-size: 100% 100%;"></div>
 <div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page2.png); background-size: 100% 100%;"></div>
 <div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page3.png); background-size: 100% 100%;"></div>
