@@ -29,8 +29,7 @@ nav_order: 4
 </div>
 </div>
 
-[Open in new tab](all-ai-zine)
-
+<a href="all-ai-zine" target="_blank">Open in new tab</a>
 
 # All AI Is Local: Rejecting the Permicious Myth of Universalism in AI Discourse
 
