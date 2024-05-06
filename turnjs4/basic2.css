@@ -21,15 +21,15 @@ body{
 }
 
 .flipbook-viewport .flipbook{
-	width:922px;
-	height:600px;
-	left:-461px;
-	top:-300px;
+	width:1198px;
+	height:780px;
+	left:-599px;
+	top:-390px;
 }
 
 .flipbook-viewport .page{
-	width:461px;
-	height:600px;
+	width:599px;
+	height:780px;
 	background-color:white;
 	background-repeat:no-repeat;
 	background-size:100% 100%;
