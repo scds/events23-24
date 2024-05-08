@@ -355,8 +355,6 @@ turnMethods = {
       left = 0,
       width = data.opts.width;
 
-    console.log(data);
-
     if (!data.noCenter) {
       if (data.display=='double') {
         var view = this.turn('view', page || data.tpage || data.page);
