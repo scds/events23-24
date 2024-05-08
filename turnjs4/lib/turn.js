@@ -344,20 +344,33 @@ turnMethods = {
   // Centers the flipbook
 
   center: function(page) {
-    
+
+    if(!this.data().to_be_width)
+      this.data().to_be_width = this.data().opts.width;
+    if(!this.data().prev_page)
+      this.data().prev_page = this.data().page;
+
     var data = this.data(),
       size = $(this).turn('size'),
-      left = 0;
+      left = 0,
+      width = data.opts.width;
+
+    console.log(data);
 
     if (!data.noCenter) {
       if (data.display=='double') {
         var view = this.turn('view', page || data.tpage || data.page);
 
         if (data.direction=='ltr') {
-          if (!view[0])
-            left -= size.width/4;
-          else if (!view[1])
-            left += size.width/4;
+          if (!view[0]) { // very left
+            left += width/4;
+            data.to_be_width = width / 2;
+          } else if (!view[1]) { // very right
+            left += width/4;
+            data.to_be_width = width / 2;
+          } else {
+            data.to_be_width = width;
+          }
         } else {
           if (!view[0])
             left += size.width/4;
@@ -367,7 +380,12 @@ turnMethods = {
       
       }
 
-      $(this).css({marginLeft: left});
+      $(this).css({marginLeft: (data.page == 1) ? -size.width/4 : size.width/4 });
+      if(!((data.page == 1 && data.prev_page > 1) || (data.page == data.totalPages && data.prev_page < data.totalPages))){
+        $(this).css({marginLeft: left});
+        $(this).css({width:data.to_be_width});
+      }
+      this.data().prev_page = this.data().page;
     }
 
     return this;
@@ -1500,6 +1518,8 @@ turnMethods = {
     turnData.mouseAction = true;
 
     turn.turn('update');
+    
+    //opts.turn.turn('center', data.opts);
 
     return data.time = new Date().getTime();
 

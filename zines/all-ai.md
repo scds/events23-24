@@ -2,9 +2,10 @@
 layout: default
 title: "All AI Is Local: Rejecting the Permicious Myth of Universalism in AI Discourse"
 nav_order: 4
+parent: "Zines as Critical Data"
 ---
 
-<div class="container" style="width=100%">
+<div class="container">
 <div class="flipbook" style="z-index: 7">
 <div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page1.png); background-size: 100% 100%;"></div>
 <div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page2.png); background-size: 100% 100%;"></div>
@@ -72,7 +73,7 @@ yepnope({
 	test : Modernizr.csstransforms,
 	yep: ['../turnjs4/lib/turn.js'],
 	nope: ['../turnjs4/lib/turn.html4.min.js'],
-	both: ['../turnjs4/basic.css'],
+	both: ['../turnjs4/all_ai_is_local.css'],
 	complete: loadApp
 });
 

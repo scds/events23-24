@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Nonhuman Witnessing: War, Data, and Ecology After the End of the World"
-nav_order: 6
+nav_order: 5
 ---
 
 <img src="assets/img/nonhuman.png" alt="Workshop Title Slide" width="100%">
