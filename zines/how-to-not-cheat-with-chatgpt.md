@@ -30,7 +30,8 @@ parent: "Zines as Critical Data"
 </div>
 </div>
 
-<a href="how-to-not-cheat-with-chatgpt-zine" target="_blank">Open in new tab</a>
+<a href="how-to-not-cheat-with-chatgpt-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/How_to_(not)_Cheat_with_ChatGPT.pdf" target="_blank">view as a PDF.</a>  
+*Click or drag the corners of the zine to flip the pages*
 
 # How to (Not) Cheat with ChatGPT
 
@@ -62,7 +63,7 @@ This zine is entitled *How to (Not) Cheat with ChatGPT* and discusses the use of
 function loadApp() {
 	$('.flipbook').turn({
 			width: $('.container').width() ,
-			height: $('.container').width()*0.697777778,
+			height: $('.container').width()/2*1.29473684,
 			elevation: 0,
 			gradients: true,
 			autoCenter: true
@@ -78,7 +79,7 @@ yepnope({
 });
 
 $( window ).on( "resize", function() {
-  $('.flipbook').turn('size', $('.container').width(), $('.container').width()*0.697777778)
+  $('.flipbook').turn('size', $('.container').width(), $('.container').width()/2*1.29473684)
 } );
 
 </script>

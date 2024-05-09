@@ -26,7 +26,8 @@ parent: "Zines as Critical Data"
 </div>
 </div>
 
-<a href="data-dunk-zine" target="_blank">Open in new tab</a>
+<a href="data-dunk-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/Data_Dunk.pdf" target="_blank">view as a PDF.</a>  
+*Click or drag the corners of the zine to flip the pages*
 
 # Data Dunk: An Investigation Into Data-Driven Decision Making in Basketball
 
@@ -60,7 +61,7 @@ My zine is called *Data Dunk*, a short play on words to hint towards the zine's 
 function loadApp() {
 	$('.flipbook').turn({
 			width: $('.container').width() ,
-			height: $('.container').width()*0.697777778,
+			height: $('.container').width()/2*1.41452991,
 			elevation: 0,
 			gradients: true,
 			autoCenter: true
@@ -76,7 +77,7 @@ yepnope({
 });
 
 $( window ).on( "resize", function() {
-  $('.flipbook').turn('size', $('.container').width(), $('.container').width()*0.697777778)
+  $('.flipbook').turn('size', $('.container').width(), $('.container').width()/2*1.41452991)
 } );
 
 </script>

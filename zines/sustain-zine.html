@@ -1,0 +1,68 @@
+---
+layout: minimal
+title: "Zine - Connor the Cloud: A Consideration of Data Discourse in Children’s Books"
+nav_exclude: true
+---
+
+<!doctype html>
+<html  lang="en">
+<head>
+<meta name="viewport" content="width = 1280, user-scalable = no" />
+<script type="text/javascript" src="../turnjs4/extras/jquery.min.1.7.js"></script>
+<script type="text/javascript" src="../turnjs4/extras/modernizr.2.5.3.min.js"></script>
+</head>
+<body>
+
+<div class="flipbook-viewport" style="height: 100vh">
+<div class="container">
+	<div class="flipbook">
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page1.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page2.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page3.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page4.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page5.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page6.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page7.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page8.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page9.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page10.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page11.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page12.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page13.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page14.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page15.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page16.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page17.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page18.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page19.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/sustain/page20.png); background-size: 100% 100%;"></div>
+	</div>
+</div>
+</div>
+
+<script type="text/javascript">
+
+
+function loadApp() {
+	$('.flipbook').turn({
+			width: 1090,
+			height: 780,
+			elevation: 0,
+			gradients: true,
+			autoCenter: true
+
+	});
+}
+
+yepnope({
+	test : Modernizr.csstransforms,
+	yep: ['../turnjs4/lib/turn.js'],
+	nope: ['../turnjs4/lib/turn.html4.min.js'],
+	both: ['../turnjs4/sustain.css'],
+	complete: loadApp
+});
+
+</script>
+
+</body>
+</html>

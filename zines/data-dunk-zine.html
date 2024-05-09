@@ -1,0 +1,64 @@
+---
+layout: minimal
+title: "Zine - Connor the Cloud: A Consideration of Data Discourse in Children’s Books"
+nav_exclude: true
+---
+
+<!doctype html>
+<html  lang="en">
+<head>
+<meta name="viewport" content="width = 1280, user-scalable = no" />
+<script type="text/javascript" src="../turnjs4/extras/jquery.min.1.7.js"></script>
+<script type="text/javascript" src="../turnjs4/extras/modernizr.2.5.3.min.js"></script>
+</head>
+<body>
+
+<div class="flipbook-viewport" style="height: 100vh">
+<div class="container">
+	<div class="flipbook">
+		<div class="sheet" style="background-image:url(../assets/img/zines/data_dunk/page1.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/data_dunk/page2.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/data_dunk/page3.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/data_dunk/page4.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/data_dunk/page5.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/data_dunk/page6.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/data_dunk/page7.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/data_dunk/page8.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/data_dunk/page9.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/data_dunk/page10.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/data_dunk/page11.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/data_dunk/page12.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/data_dunk/page13.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/data_dunk/page14.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/data_dunk/page15.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/data_dunk/page16.png); background-size: 100% 100%;"></div>
+	</div>
+</div>
+</div>
+
+<script type="text/javascript">
+
+
+function loadApp() {
+	$('.flipbook').turn({
+			width: 1102,
+			height: 780,
+			elevation: 0,
+			gradients: true,
+			autoCenter: true
+
+	});
+}
+
+yepnope({
+	test : Modernizr.csstransforms,
+	yep: ['../turnjs4/lib/turn.js'],
+	nope: ['../turnjs4/lib/turn.html4.min.js'],
+	both: ['../turnjs4/how_to_not_cheat_with_chatgpt.css'],
+	complete: loadApp
+});
+
+</script>
+
+</body>
+</html>

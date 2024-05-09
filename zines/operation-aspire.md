@@ -30,7 +30,8 @@ parent: "Zines as Critical Data"
 </div>
 </div>
 
-<a href="operation-aspire-zine" target="_blank">Open in new tab</a>
+<a href="operation-aspire-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/Operation_Aspire.pdf" target="_blank">view as a PDF.</a>  
+*Click or drag the corners of the zine to flip the pages*
 
 # Operation Aspire: A Critical Investigation of Spotify's Podcaster AI Translation Pilot
 
@@ -62,7 +63,7 @@ parent: "Zines as Critical Data"
 function loadApp() {
 	$('.flipbook').turn({
 			width: $('.container').width() ,
-			height: $('.container').width()*0.697777778,
+			height: $('.container').width()/2*1.43083573,
 			elevation: 0,
 			gradients: true,
 			autoCenter: true
@@ -78,7 +79,7 @@ yepnope({
 });
 
 $( window ).on( "resize", function() {
-  $('.flipbook').turn('size', $('.container').width(), $('.container').width()*0.697777778)
+  $('.flipbook').turn('size', $('.container').width(), $('.container').width()/2*1.43083573)
 } );
 
 </script>
