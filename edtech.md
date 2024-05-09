@@ -1,7 +1,7 @@
 ---
 layout: default
 title: EdTech Inc., Revisited
-nav_order: 4
+nav_order: 202403221130
 ---
 
 <img src="assets/img/edtech.png" alt="Workshop Title Slide" width="100%">

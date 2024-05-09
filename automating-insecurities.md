@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Automating (In)securities: Cybersecurity's AI Imaginaries"
-nav_order: 3
+nav_order: 202401190000
 ---
 
 <img src="assets/img/insecurities.png" alt="Workshop Title Slide" width="100%">
