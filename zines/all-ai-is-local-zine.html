@@ -45,12 +45,11 @@ nav_exclude: true
 
 function loadApp() {
 	$('.flipbook').turn({
-			width: 1198,
+			width: 1090,
 			height: 780,
 			elevation: 50,
 			gradients: true,
 			autoCenter: true
-
 	});
 }
 
@@ -58,7 +57,7 @@ yepnope({
 	test : Modernizr.csstransforms,
 	yep: ['../turnjs4/lib/turn.js'],
 	nope: ['../turnjs4/lib/turn.html4.min.js'],
-	both: ['../turnjs4/flipbook.css'],
+	both: ['../turnjs4/all_ai_is_local.css'],
 	complete: loadApp
 });
 

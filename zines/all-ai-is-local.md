@@ -30,7 +30,8 @@ parent: "Zines as Critical Data"
 </div>
 </div>
 
-<a href="all-ai-zine" target="_blank">Open in new tab</a>
+<a href="all-ai-is-local-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/All_AI_is_Local.pdf" target="_blank">view as a PDF.</a>  
+*Click or drag the corners of the zine to flip the pages*
 
 # All AI Is Local: Rejecting the Permicious Myth of Universalism in AI Discourse
 
@@ -61,8 +62,8 @@ parent: "Zines as Critical Data"
 
 function loadApp() {
 	$('.flipbook').turn({
-			width: $('.container').width() ,
-			height: $('.container').width()*0.697777778,
+			width: $('.container').width(),
+			height: $('.container').width()*0.698892246,
 			elevation: 0,
 			gradients: true,
 			autoCenter: true
@@ -78,7 +79,7 @@ yepnope({
 });
 
 $( window ).on( "resize", function() {
-  $('.flipbook').turn('size', $('.container').width(), $('.container').width()*0.697777778)
+  $('.flipbook').turn('size', $('.container').width(), $('.container').width()*0.697777778);
 } );
 
 </script>

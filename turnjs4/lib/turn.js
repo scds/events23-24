@@ -1012,7 +1012,14 @@ turnMethods = {
           data.pages[page].css({width: prop.width, height: prop.height});
       }
 
+      var factor = this.data().opts.width / width;
+      this.data().opts.width = width;
+      this.data().to_be_width *= factor;
+
+      if (data.opts.autoCenter)
+        this.turn('center');
       this.turn('resize');
+      
 
       return this;
 

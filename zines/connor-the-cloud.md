@@ -30,7 +30,8 @@ parent: "Zines as Critical Data"
 </div>
 </div>
 
-<a href="connor-the-cloud-zine" target="_blank">Open in new tab</a>
+<a href="connor-the-cloud-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/Connor_the_Cloud.pdf" target="_blank">view as a PDF.</a>  
+*Click or drag the corners of the zine to flip the pages*
 
 # Connor the Cloud: A Consideration of Data Discourse in Children’s Books
 
