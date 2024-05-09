@@ -30,7 +30,8 @@ parent: "Zines as Critical Data"
 </div>
 </div>
 
-<a href="the-chinese-are-spying-on-us-zine" target="_blank">Open in new tab</a>
+<a href="the-chinese-are-spying-on-us-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/They_Are_Spying_on_Us!.pdf" target="_blank">view as a PDF.</a>  
+*Click or drag the corners of the zine to flip the pages*
 
 # “The Chinese are spying on us!”: Racialized discourse on cyber espionage
 
@@ -62,7 +63,7 @@ My zine, titled *“The Chinese are spying on us!”: Racialized discourse on cy
 function loadApp() {
 	$('.flipbook').turn({
 			width: $('.container').width() ,
-			height: $('.container').width()*0.697777778,
+			height: $('.container').width()/2*1.54606365,
 			elevation: 0,
 			gradients: true,
 			autoCenter: true
@@ -78,7 +79,7 @@ yepnope({
 });
 
 $( window ).on( "resize", function() {
-  $('.flipbook').turn('size', $('.container').width(), $('.container').width()*0.697777778)
+  $('.flipbook').turn('size', $('.container').width(), $('.container').width()/2*1.54606365)
 } );
 
 </script>

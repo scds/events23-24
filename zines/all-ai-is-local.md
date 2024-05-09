@@ -63,7 +63,7 @@ parent: "Zines as Critical Data"
 function loadApp() {
 	$('.flipbook').turn({
 			width: $('.container').width(),
-			height: $('.container').width()*0.698892246,
+			height: $('.container').width()/2*1.43083573,
 			elevation: 0,
 			gradients: true,
 			autoCenter: true
@@ -79,7 +79,7 @@ yepnope({
 });
 
 $( window ).on( "resize", function() {
-  $('.flipbook').turn('size', $('.container').width(), $('.container').width()*0.697777778);
+  $('.flipbook').turn('size', $('.container').width(), $('.container').width()/2*1.43083573);
 } );
 
 </script>

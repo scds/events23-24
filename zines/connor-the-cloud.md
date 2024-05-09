@@ -63,7 +63,7 @@ The zine *Connor the Cloud: A Consideration of Data Discourse in Children’s Bo
 function loadApp() {
 	$('.flipbook').turn({
 			width: $('.container').width() ,
-			height: $('.container').width()*0.697777778,
+			height: $('.container').width()/2*1.545878,
 			elevation: 0,
 			gradients: true,
 			autoCenter: true
@@ -79,7 +79,7 @@ yepnope({
 });
 
 $( window ).on( "resize", function() {
-  $('.flipbook').turn('size', $('.container').width(), $('.container').width()*0.697777778)
+  $('.flipbook').turn('size', $('.container').width(), $('.container').width()/2*1.545878)
 } );
 
 </script>
