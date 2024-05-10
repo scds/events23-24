@@ -23,3 +23,9 @@ This event explores a range of perspectives on how data is negotiated within the
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/8c34a392-6f4c-4bef-bbfb-c9dee7928463/public"></iframe>
 [View original here.](https://echo360.ca/media/8c34a392-6f4c-4bef-bbfb-c9dee7928463/public)
+
+## Event Slides
+
+<embed src="assets/docs/Zines_Slides.pdf" style="border:none;" width="100%" height="466px">
+
+[Download as PDF.](assets/docs/Zines_Slides.pdf)
