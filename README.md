@@ -1,10 +1,10 @@
-# Machine Learning with R
-Materials for the DASH workshops: **Machine Learning with R**  
+# 2023-24 Special Events
+Materials for the **2023-24 Special Events**.  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/machine-learning-with-r) with GitHub Pages. 
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/events23-24) with GitHub Pages. 
 
 Contributions by the following individuals: 
-- Workshop content created by Humayun Kabir, Amirreza Mousavi, and Shaila Jamal
+- Workshop content creators are listed on each page
 - Content edited for online use by Richie Motorgeanu
 - Online pages created by Richie Motorgeanu
 
