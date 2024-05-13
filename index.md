@@ -18,11 +18,9 @@ has_children: false
 <img src="assets/img/titleSlide.png" alt="Workshop Title Slide" width="100%">
 
 <!-- Main header -->
-# Welcome to Machine Learning with R
+# Welcome to the 2023-2024 Special Events Page
 
-Machine Learning with R is a special sub-series supported by the Data Analysis Support Hub (DASH).
-
-These workshops will introduce participants to the theory of several machine learning techniques and algorithms, and provide opportunities to apply them to real data.
+This page contains event recordings of some special events that were held in the 2023-2024 year offering.
 
 ## Machine Learning with R Workshop Topics
 
