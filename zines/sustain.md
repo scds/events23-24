@@ -39,6 +39,10 @@ Thinking about preservation as an act of resistance requires an understanding of
 
 \- Amanda Jarvis 
 
+## Event Segment Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/893215e9-0665-4cf1-8af9-017dc7bd8a5e/public"></iframe>
+[View original here.](https://echo360.ca/media/893215e9-0665-4cf1-8af9-017dc7bd8a5e/public)
 
 
 

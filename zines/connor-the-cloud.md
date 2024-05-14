@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Connor the Cloud: A Consideration of Data Discourse in Children’s Books"
-nav_order: 2
+nav_order: 3
 parent: "Zines as Critical Data"
 ---
 
@@ -39,7 +39,10 @@ The zine *Connor the Cloud: A Consideration of Data Discourse in Children’s Bo
 
 \- Cassie Turkstra
 
+## Event Segment Recording
 
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/5023057b-d6b7-4fbd-bc34-901c1ae899bb/public"></iframe>
+[View original here.](https://echo360.ca/media/5023057b-d6b7-4fbd-bc34-901c1ae899bb/public)
 
 
 

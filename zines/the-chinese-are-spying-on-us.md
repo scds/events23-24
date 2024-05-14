@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "“The Chinese are spying on us!”: Racialized discourse on cyber espionage"
-nav_order: 3
+nav_order: 2
 parent: "Zines as Critical Data"
 ---
 
@@ -39,6 +39,10 @@ My zine, titled *“The Chinese are spying on us!”: Racialized discourse on cy
 
 \- Abigail Atmadja
 
+## Event Segment Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/f9125f25-acab-47c5-8026-29df519f33b1/public"></iframe>
+[View original here.](https://echo360.ca/media/f9125f25-acab-47c5-8026-29df519f33b1/public)
 
 
 

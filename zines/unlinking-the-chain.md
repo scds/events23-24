@@ -39,6 +39,10 @@ parent: "Zines as Critical Data"
 
 \- Zeina Abouchacra
 
+## Event Segment Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/26047c16-46a6-4f0b-8a13-0cf83af23e3d/public"></iframe>
+[View original here.](https://echo360.ca/media/26047c16-46a6-4f0b-8a13-0cf83af23e3d/public)
 
 
 

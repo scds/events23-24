@@ -37,6 +37,10 @@ The zine *Validating or Violating: An Introspective Look on How Health Informati
 
 \- Elsie Sheppard
 
+## Event Segment Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/86a37f1e-1f28-489c-9267-11ec680157f3/public"></iframe>
+[View original here.](https://echo360.ca/media/86a37f1e-1f28-489c-9267-11ec680157f3/public)
 
 
 

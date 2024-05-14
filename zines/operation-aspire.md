@@ -39,6 +39,10 @@ parent: "Zines as Critical Data"
 
 \- Milica Hinic
 
+## Event Segment Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/b70f4191-9907-425f-a92e-fa1af93b079e/public"></iframe>
+[View original here.](https://echo360.ca/media/b70f4191-9907-425f-a92e-fa1af93b079e/public)
 
 
 

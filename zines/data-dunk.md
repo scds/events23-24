@@ -35,6 +35,10 @@ My zine is called *Data Dunk*, a short play on words to hint towards the zine's 
 
 \- Kiyaan Chavoshi 
 
+## Event Segment Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/35a39e03-9415-446a-bfd9-b1b4f03b26de/public"></iframe>
+[View original here.](https://echo360.ca/media/35a39e03-9415-446a-bfd9-b1b4f03b26de/public)
  
 
 

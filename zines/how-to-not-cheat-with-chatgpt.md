@@ -39,7 +39,10 @@ This zine is entitled *How to (Not) Cheat with ChatGPT* and discusses the use of
 
 \- Mélina Nzeza
 
+## Event Segment Recording
 
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/971c9d6a-0c32-409a-96de-9263cf6f0b90/public"></iframe>
+[View original here.](https://echo360.ca/media/971c9d6a-0c32-409a-96de-9263cf6f0b90/public)
 
 
 

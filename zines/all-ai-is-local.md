@@ -39,8 +39,10 @@ parent: "Zines as Critical Data"
 
 \- Elisabeth Greve
 
+## Event Segment Recording
 
-
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/e8425fb3-b17b-4934-91ce-86b1b4b1255a/public"></iframe>
+[View original here.](https://echo360.ca/media/e8425fb3-b17b-4934-91ce-86b1b4b1255a/public)
 
 
 
