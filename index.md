@@ -22,7 +22,7 @@ has_children: false
 
 This page contains event recordings of some special events that were held in the 2023-2024 year offering.
 
-## Machine Learning with R Workshop Topics
+## 2023-2024 Special Events
 
 <div markdown="1" style="border: 1px solid #7a003c; border-radius: 6px; margin-bottom: 1em; padding: 0.5em 1em 0; margin-top: 1em;" class="toc">
 <summary style="cursor:default; display: block; border-bottom: 1px solid #302d36; margin-bottom: 0.5em">
