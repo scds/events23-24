@@ -1,4 +1,4 @@
-title: Special Events # *** Enter workshop title here 
+title: 2023-24 Special Events # *** Enter workshop title here 
 github_repo_url: "https://scds.github.io/events23-24/" # *** Enter workshop URL (in github pages) here
 gh_edit_repository: "https://github.com/scds/events23-24/" # *** Enter the github URL for your repo
 ga_tracking: "G-HTFKKVJK6K" # *** This needs to be set up in Google Analytics once you know the website URL (ask Jay to do this). Then the tracking code needs to be taken from Google Analytics and pasted here.  
